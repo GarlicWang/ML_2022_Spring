@@ -7,6 +7,6 @@ Machine Learning course in 2022 spring
 Task : COVID-19 Cases Prediction (Regression)  
 
 ## HW2
-[Sample code](https://colab.research.google.com/drive/1hmTFJ8hdcnqRz_0oJSXjTGhZLVU-bS1a?usp=sharing)
-[Kaggle](https://www.kaggle.com/c/ml2022spring-hw2)
-Task : Framewise phoneme classification on the LibriSpeech Dataset
+[Sample code](https://colab.research.google.com/drive/1hmTFJ8hdcnqRz_0oJSXjTGhZLVU-bS1a?usp=sharing)  
+[Kaggle](https://www.kaggle.com/c/ml2022spring-hw2)  
+Task : Framewise phoneme classification on the LibriSpeech Dataset  
