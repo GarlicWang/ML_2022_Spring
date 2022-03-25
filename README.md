@@ -10,3 +10,8 @@ Task : COVID-19 Cases Prediction (Regression)
 [Sample code](https://colab.research.google.com/drive/1hmTFJ8hdcnqRz_0oJSXjTGhZLVU-bS1a?usp=sharing)  
 [Kaggle](https://www.kaggle.com/c/ml2022spring-hw2)  
 Task : Framewise phoneme classification on the LibriSpeech Dataset  
+
+## HW3
+[Sample code](https://colab.research.google.com/drive/15hMu9YiYjE_6HY99UXon2vKGk2KwugWu)  
+[Kaggle](https://www.kaggle.com/c/ml2022spring-hw3b)  
+Task : Image classification with CNN models  
