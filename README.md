@@ -17,11 +17,11 @@ Task : Framewise phoneme classification on the LibriSpeech Dataset
 Task : Image classification with CNN models  
 
 ## HW4
-[Sample code](https://colab.research.google.com/drive/1gC2Gojv9ov9MUQ1a1WDpVBD6FOcLZsog?usp=sharing)
-[Kaggle](https://www.kaggle.com/c/ml2022spring-hw4)
-Task : Speaker prediction
+[Sample code](https://colab.research.google.com/drive/1gC2Gojv9ov9MUQ1a1WDpVBD6FOcLZsog?usp=sharing)  
+[Kaggle](https://www.kaggle.com/c/ml2022spring-hw4)  
+Task : Speaker prediction  
 
 ## HW5
-[Sample code](https://colab.research.google.com/drive/1Tlyk2vCBQ8ZCuDQcCSEWTLzr1_xYF9CL#scrollTo=Le4RFWXxjmm0)
-[JudgeBoi](https://ml.ee.ntu.edu.tw/hw5/)
+[Sample code](https://colab.research.google.com/drive/1Tlyk2vCBQ8ZCuDQcCSEWTLzr1_xYF9CL#scrollTo=Le4RFWXxjmm0)  
+[JudgeBoi](https://ml.ee.ntu.edu.tw/hw5/)  
 Task : Transformer
